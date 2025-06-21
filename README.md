@@ -20,8 +20,8 @@ Before we dive in, here's a quick snapshot of the trail we'll be following:
 ## Tools & Libraries Used
 
 - **Jupyter Notebook** — the interactive environment used to explore, build and document the entire modeling process   
-- **Python 3.12.7** — base language for all modeling and data wrangling   
-- **scikit-learn** - for loading the dataset and implementing k-Nearest Nieghbors
+- **Python 3.12.7** — base language powering all modeling, iteration, and data prep   
+- **scikit-learn** - for loading the dataset and implementing k-Nearest Neighbors
 - **matplotlib** - for data visualization
 - **pandas and numpy** - for data manipulation and analysis
 
